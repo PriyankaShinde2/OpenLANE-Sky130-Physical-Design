@@ -1,10 +1,7 @@
 # OpenLANE-Sky130-Physical-Design
 Documentation for the 5 day workshop: Advanced Physical Design using OpenLane/Sky130.Aim is to cover the complete RTL2GDS flow using the open-source flow OpenLane with SKY130nm PDK.
 DAY 1: Inception of Open-source EDA, OpenLane and Sky130 PDK
-The core of the chip will contain two types of blocks:
 
-Foundry IP Blocks (e.g. ADC, DAC, PLL, and SRAM) = blocks which requires some amount of intelligent techniques to build which can only be designed by foundries.
-Macro blocks (e.g. RISC-V SOC and SPI) = pure digital logic blocks compared to IP's which might require some analog parts.
 ![Chip](https://github.com/PriyankaShinde2/OpenLANE-Sky130-Physical-Design/assets/135041446/1f761ee6-b500-4549-8bda-025f02e90220)
 
 Open Source Digital ASIC Design requires three open-source components:
