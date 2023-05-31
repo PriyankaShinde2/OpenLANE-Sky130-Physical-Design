@@ -19,6 +19,7 @@ OpenLane = An open-source ASIC development flow reference. It consists of multip
 
 Lab [Day 1] - Determine Flip-flop Ratio:
 The task is to find the flip-flop ratio for the design picorv32a. This is the ratio of the number of flip flops to the total number of cells.
+
 Steps to be followed after installing OpenLANE :
 1. Run OpenLANE:
 
