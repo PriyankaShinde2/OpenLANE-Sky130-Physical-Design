@@ -22,8 +22,11 @@ Steps to be followed after installing OpenLANE :
 1. Run OpenLANE:
 
 Open the docker platform inside the openlane.
+
 % flow.tcl -interactive = Used to run the RTL to GDSII flow in interactive mode.
+
 % package require openlane 0.9 == retrives all dependencies for running v0.9 of OpenLANE.
+
 
 ![openlane](https://github.com/PriyankaShinde2/OpenLANE-Sky130-Physical-Design/assets/135041446/7f5f616d-50c0-4a2b-9917-377844288046)
 
